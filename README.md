@@ -21,7 +21,7 @@
 * Na proxima tela você deve colocar as informações da sua aplicação,
   como por exemplo: Nome, url e logo.
 * Em desenvolvimento a url utilizada foi: "http://localhost:3000", caso queira fazer o deploy
-  deverá informar a url gerada ao faze-lo ou ser dominio.
+  deverá informar a url gerada ao faze-lo ou seu dominio.
 * Além da url de acesso a api, você precisa configurar uma url de redirecionamento, já que ao acessar a api
   o client será redirecionado para a tela de login do github.
 * A baixo um exemplo de registro de aplicação. Ao acessar os end points do github vc deverá enviar um client id e um 
