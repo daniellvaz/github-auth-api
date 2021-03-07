@@ -30,9 +30,13 @@
 * Após fazer essas configurações é só seguir a documentação do github e sair utilizando em suas aplicações... Segue o link 
   a baixo também.
   
- 
+## Client_id and Client_secret keys
+  
+<img alt="License: MIT" src=" https://github.com/daniellvaz/github-auth-api/blob/master/clientid.png" />
 
- <a href="https://docs.github.com/en/developers/apps/authorizing-oauth-apps" target="_blank">OAuth documentation</a>
+## Documentation link
+
+<a href="https://docs.github.com/en/developers/apps/authorizing-oauth-apps" target="_blank">OAuth documentation</a>
 
 
 ## Author
