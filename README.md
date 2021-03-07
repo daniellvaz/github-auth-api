@@ -32,7 +32,7 @@
   
 ## Client_id and Client_secret keys
   
-<img alt="License: MIT" src=" https://github.com/daniellvaz/github-auth-api/blob/master/clientid.png" />
+<img alt="client_id" src="https://github.com/daniellvaz/github-auth-api/blob/master/clientid.png" />
 
 ## Documentation link
 
