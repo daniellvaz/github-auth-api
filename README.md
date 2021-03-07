@@ -11,6 +11,30 @@
 
 > This project is a exemple of connection with github api to provider a authentication using github user data.
 
+## Como configurar?
+
+* Na tela de configurações, acessar o item configurações de desenvolvedor (developer settings).
+* Na tela seginte irá aparecer três opções (Github apps, OAuth apps e personal access token).
+* Selecionar a opção OAuth apps.
+* Na próxima tela deverá aparecer a opção "New OAuth app".
+* Essa opção é para registrar a aplicação que irá utilizar a api.
+* Na proxima tela você deve colocar as informações da sua aplicação,
+  como por exemplo: Nome, url e logo.
+* Em desenvolvimento a url utilizada foi: "http://localhost:3000", caso queira fazer o deploy
+  deverá informar a url gerada ao faze-lo ou ser dominio.
+* Além da url de acesso a api, você precisa configurar uma url de redirecionamento, já que ao acessar a api
+  o client será redirecionado para a tela de login do github.
+* A baixo um exemplo de registro de aplicação. Ao acessar os end points do github vc deverá enviar um client id e um 
+  client secret, que são gerados no momento do registro, e que nesse projeto coloquei em um arquivo .env para preservar
+  os tokens.
+* Após fazer essas configurações é só seguir a documentação do github e sair utilizando em suas aplicações... Segue o link 
+  a baixo também.
+  
+ 
+
+ <a href="https://docs.github.com/en/developers/apps/authorizing-oauth-apps" target="_blank">OAuth documentation</a>
+
+
 ## Author
 
 👤 **Daniel Murilo Vaz**
